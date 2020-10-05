@@ -3,7 +3,7 @@
 My name is Chlod Aidan Alejandro, and I'm a senior software developer and IT manager at my own home. You can call me whatever you want, be it "Chlod", "Aidan", 「アレハンドロ」, or just straight up "dude".
 
 ### 🔭 I’m currently working on ...
-A lot of things. I pu them on a [Trello board](https://trello.com/b/NAr4XDX8/my-projects) to keep things organized. Although you might know me from a few of my projects:
+A lot of things. I put them on a [Trello board](https://trello.com/b/NAr4XDX8/my-projects) to keep things organized. Although you might know me from a few of my projects:
 * [Ralsei Bot](https://ralsei.chlod.net) - a Discord bot themed around Ralsei, a character from the game DELTARUNE. The source is private, but I do have the source on GitHub.
 * [RedWarn](https://gitlab.com/redwarn/redwarn-web) - a user-friendly Wikipedia counter-vandalism tool. Its source is available on GitLab.
 * [Powerhouse](https://github.com/ChlodAlejandro/powerhouse) - an in-development file distribution server made with PHP (which I half-regret).
