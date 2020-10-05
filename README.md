@@ -8,8 +8,6 @@ A lot of things. I put them on a [Trello board](https://trello.com/b/NAr4XDX8/my
 * [RedWarn](https://gitlab.com/redwarn/redwarn-web) - a user-friendly Wikipedia counter-vandalism tool. Its source is available on GitLab.
 * [Powerhouse](https://github.com/ChlodAlejandro/powerhouse) - an in-development file distribution server made with PHP (which I half-regret).
 * [Express Server Templates](https://github.com/ChlodAlejandro/express-server-templates) - Node.js Express server templates for quick deployment.
-* [DBServer API](https://github.com/ChlodAlejandro/dbserver-api) - The DBServer API and App, both of which were supposed to provide a mobile interface to the [PSHS-CVC DBServer](https://dbserver-portal.online), although this project was abandoned due to personal reasons.
-and many other projects that I've failed to mention.
 
 ### 🌱 I’m currently learning ...
 Calculus and phyletics, as part of my school curriculum. Jokes aside, I'm currently sticking to TypeScript as my language of choice, and I'm not focusing on any other language for the time being. However, as part of my school curriculum (again), I'll be learning Python this year. I've worked with Python before, but I haven't really gotten that in-depth with it.
