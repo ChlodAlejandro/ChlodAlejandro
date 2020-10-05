@@ -13,7 +13,7 @@ A lot of things. I put them on a [Trello board](https://trello.com/b/NAr4XDX8/my
 Calculus and phyletics, as part of my school curriculum. Jokes aside, I'm currently sticking to TypeScript as my language of choice, and I'm not focusing on any other language for the time being. However, as part of my school curriculum (again), I'll be learning Python this year. I've worked with Python before, but I haven't really gotten that in-depth with it.
 
 ### 💬 Ask me about ...
-Anything under the sun. If you have some code issues that I can probably solve within 10 minutes, don't be afraid to ask. If you need anime recommendations or Japanese language learning resources, I'll be happy to give you some. If you want me to tell you how to learn a language... well that's a bit pushing the boundaries a bit.
+Anything under the sun. If you have some code issues that I can probably solve within 10 minutes, don't be afraid to ask. If you need anime recommendations or Japanese language learning resources, I'll be happy to give you some. If you want me to tell you how to learn a language... well that's pushing the boundaries a bit.
 
 ### 📫 How to reach me
 I suggest that you use whatever method you prefer, although I also prefer having things organized.
