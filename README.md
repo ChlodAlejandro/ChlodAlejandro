@@ -7,7 +7,6 @@ A lot of things. I put them on a [Trello board](https://trello.com/b/NAr4XDX8/my
 * [Ralsei Bot](https://ralsei.chlod.net) - a Discord bot themed around Ralsei, a character from the game DELTARUNE. The source is private, but I do have the source on GitHub.
 * [RedWarn](https://gitlab.com/redwarn/redwarn-web) - a user-friendly Wikipedia counter-vandalism tool. Its source is available on GitLab.
 * [Powerhouse](https://github.com/ChlodAlejandro/powerhouse) - an in-development file distribution server made with PHP (which I half-regret).
-* Care, a self-care app that I'm making for Research class.
 
 ### 🌱 I’m currently learning ...
 Calculus and phyletics, as part of my school curriculum. Jokes aside, I'm currently sticking to TypeScript as my language of choice, and I'm not focusing on any other language for the time being. However, as part of my school curriculum (again), I'll be learning Python this year. I've worked with Python before, but I haven't really gotten that in-depth with it.
