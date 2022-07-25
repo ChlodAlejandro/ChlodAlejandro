@@ -7,11 +7,11 @@ A lot of things. I put them on a [Trello board](https://trello.com/b/NAr4XDX8/my
 * [Ralsei Bot](https://ralsei.chlod.net) - a Discord bot themed around Ralsei, a character from the game DELTARUNE. The source is private, but I do have the source on GitHub.
 * [Ultraviolet](https://gitlab.com/redwarn/ultraviolet) - a user-friendly Wikipedia counter-vandalism tool. Its source is available on GitLab.
 * [PAGASA Parser](https://pagasa.chlod.net) - a library that parses information from [PAGASA](https://en.wikipedia.org/wiki/PAGASA)'s Tropical Cyclone Bulletin page and turns it into various formats.
-* [JTWC Archiver](https://chlod.net/jtwc) - an automatic archive of all Joint Typhoon Warning Center warnings and products.
+* [JTWC Archiver](https://wiki.chlod.net/jtwc) - an automatic archive of all Joint Typhoon Warning Center warnings and products.
 * [Deputy](https://github.com/ChlodAlejandro/deputy) - a copyright investigation suite for Wikipedia.
 
 ### 🌱 I’m currently learning ...
-Calculus and phyletics, as part of my school curriculum. Jokes aside, I'm currently sticking to TypeScript as my language of choice, and I'm not focusing on any other language for the time being. However, as part of my school curriculum (again), I'll be learning Python this year. I've worked with Python before, but I haven't really gotten that in-depth with it.
+Computer Engineering at [Mapúa University](https://en.wikipedia.org/wiki/Mapúa_University). Jokes aside, I'm currently sticking to TypeScript as my language of choice, and I'm not focusing on any other language for the time being. I do wish to learn Rust at some point.
 
 ### 💬 Ask me about ...
 Anything under the sun. If you have some code issues that I can probably solve within 10 minutes, don't be afraid to ask. If you need anime recommendations or Japanese language learning resources, I'll be happy to give you some. If you want me to tell you how to learn a language... well that's pushing the boundaries a bit.
