@@ -32,3 +32,4 @@ He/him.
 * [TypeScript](https://github.com/microsoft/typescript)'s transpiler is written entirely in TypeScript.
 * You can install [`node`](https://www.nodejs.org) with [`npm`](https://www.npmjs.com/package/node), but it only works if you have Node already.
 * PHP is a recursive acronym, because PHP stands for "PHP: Hypertext Preprocessor".
+* I have the same age and birthday as [Chisato Nishikigi](https://lycoris-recoil.fandom.com/wiki/Chisato_Nishikigi) from Lycoris Recoil, one of my favorite anime.
