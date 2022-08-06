@@ -5,7 +5,7 @@ My name is Chlod Aidan Alejandro, and I'm a senior software developer and IT man
 ### 🔭 I’m currently working on ...
 A lot of things. I put them on a [Trello board](https://trello.com/b/NAr4XDX8/my-projects) to keep things organized. Although you might know me from a few of my projects:
 * [Ralsei Bot](https://ralsei.chlod.net) - a Discord bot themed around Ralsei, a character from the game DELTARUNE. The source is private, but I do have the source on GitHub.
-* [Ultraviolet](https://gitlab.com/redwarn/ultraviolet) - a user-friendly Wikipedia counter-vandalism tool. Its source is available on GitLab.
+* [Ultraviolet](https://gitlab.com/redwarn/ultraviolet) - a user-friendly Wikipedia counter-vandalism tool and the successor to [RedWarn](https://gitlab.com/redwarn/redwarn-web). Its source is available on GitLab.
 * [PAGASA Parser](https://pagasa.chlod.net) - a library that parses information from [PAGASA](https://en.wikipedia.org/wiki/PAGASA)'s Tropical Cyclone Bulletin page and turns it into various formats.
 * [JTWC Archiver](https://wiki.chlod.net/jtwc) - an automatic archive of all Joint Typhoon Warning Center warnings and products.
 * [Deputy](https://github.com/ChlodAlejandro/deputy) - a copyright investigation suite for Wikipedia.
