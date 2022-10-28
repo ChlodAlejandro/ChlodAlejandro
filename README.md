@@ -1,6 +1,6 @@
 ## Hello! ✨
 
-My name is Chlod Aidan Alejandro, and I'm a senior software developer and IT manager at my own home. You can call me whatever you want, be it "Chlod", "Aidan", 「アレハンドロ」, or just straight up "dude".
+My name is Chlod Aidan Alejandro, and I'm a senior software developer and IT manager at my own home. You can call me whatever you want, be it "Chlod", "Aidan", 「アイーダン君」, or just straight up "dude".
 
 ### 🔭 I’m currently working on ...
 A lot of things. I put them on a [Trello board](https://trello.com/b/NAr4XDX8/my-projects) to keep things organized. Although you might know me from a few of my projects:
@@ -28,7 +28,7 @@ He/him.
 
 ### ⚡ Fun Fact
 * There's a meowing duck at the bottom of the homepage for [Amazon](https://amazon.com).
-* I have the same age and birthday as [Chisato Nishikigi](https://lycoris-recoil.fandom.com/wiki/Chisato_Nishikigi) from Lycoris Recoil (as of Season 1), one of my favorite anime.
-* [TypeScript](https://github.com/microsoft/typescript)'s transpiler is written entirely in TypeScript.
+* I have the same age and birthday as [Chisato Nishikigi](https://lycoris-recoil.fandom.com/wiki/Chisato_Nishikigi) from Lycoris Recoil (as of Season 1), one of my favorite anime series.
+* [TypeScript](https://github.com/microsoft/typescript)'s transpiler is written in TypeScript.
 * You can install [`node`](https://www.nodejs.org) with [`npm`](https://www.npmjs.com/package/node), but it only works if you have Node already.
 * PHP is a recursive acronym, because PHP stands for "PHP: Hypertext Preprocessor".
