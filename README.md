@@ -1,6 +1,6 @@
 ## Hello! ✨
 
-My name is Chlod Aidan Alejandro, and I'm a senior software developer and IT manager at my own home. You can call me whatever you want, be it "Chlod", "Aidan", 「アイダン君」, or just straight up "dude".
+My name is Chlod Aidan Alejandro, and I'm a freelance software developer and college student based in the Philippines. You can call me whatever you want, be it "Chlod", "Aidan", 「アイダン君」, or just "dude".
 
 ### 🔭 I’m currently working on ...
 A lot of things, [much of which](https://chlod.net/projects) are documented on my website. Although you might know me from a few of my projects:
