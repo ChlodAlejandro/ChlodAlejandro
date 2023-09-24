@@ -13,7 +13,7 @@ A lot of things, [much of which](https://chlod.net/projects) are documented on m
 * [wikimedia-streams](https://github.com/ChlodAlejandro/wikimedia-streams) - a library for receiving data streams from Wikimedia.
 
 ### 🌱 I’m currently learning ...
-Computer Engineering at [Mapúa University](https://en.wikipedia.org/wiki/Mapúa_University). *Not* literally, I'm currently sticking to TypeScript as my language of choice, and I'm not focusing on any other language for the time being. I do wish to learn Rust at some point.
+Information Technology at [Mapúa University](https://en.wikipedia.org/wiki/Mapúa_University). *Not* literally, I'm currently sticking to TypeScript as my language of choice, and I'm not focusing on any other language for the time being. I do wish to learn Rust at some point.
 
 ### 💬 Ask me about ...
 Anything under the sun. If you have some code issues that I can probably solve within 10 minutes, don't be afraid to ask. If you need anime recommendations or Japanese language learning resources, I'll be happy to give you some. If you want me to tell you how to learn a language... well that's pushing the boundaries a bit. Maybe if you [sponsor me](https://github.com/sponsors/ChlodAlejandro)? 😉
