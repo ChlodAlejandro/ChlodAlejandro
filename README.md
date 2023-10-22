@@ -30,7 +30,7 @@ He/him.
 
 ### ⚡ Fun Fact
 * There's a meowing duck at the bottom of the homepage for [Amazon](https://amazon.com).
-* I have the same age and birthday as [Chisato Nishikigi](https://lycoris-recoil.fandom.com/wiki/Chisato_Nishikigi) from Lycoris Recoil (as of Season 1), one of my favorite anime series.
+* I have the same age and birthday as [Chisato Nishikigi](https://lycoris-recoil.com/character/?chara=chisato) from Lycoris Recoil (as of Season 1), one of my favorite anime series.
 * [TypeScript](https://github.com/microsoft/typescript)'s transpiler is written in TypeScript.
 * You can install [`node`](https://www.nodejs.org) with [`npm`](https://www.npmjs.com/package/node), but it only works if you have Node already.
 * PHP is a recursive acronym, because PHP stands for "PHP: Hypertext Preprocessor".
