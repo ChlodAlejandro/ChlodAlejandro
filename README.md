@@ -23,7 +23,7 @@ I suggest that you use whatever method you prefer, although I also prefer having
 * If it's Wikipedia-related, please bring it to my [talk page](https://en.wikipedia.org/wiki/User_talk:Chlod).
 * For security issues regarding any of my projects, you can send me an email at [chlod@chlod.net](mailto:chlod@chlod.net).
 * If you're a close friend just wanting some attention, you can just call me on my phone number.
-* For other concerns, you can tweet at me on [Twitter](https://twitter.com/toolfrog).
+* For other concerns, you can reach me on [Twitter](https://twitter.com/toolfrog) or [Mastodon](https://mastodon.online/@chlod).
 
 ### 😄 Pronouns
 He/him.
