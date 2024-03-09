@@ -24,6 +24,7 @@ I suggest that you use whatever method you prefer, although I also prefer having
 * For security issues regarding any of my projects, you can send me an email at [chlod@chlod.net](mailto:chlod@chlod.net).
 * If you're a close friend just wanting some attention, you can just call me on my phone number.
 * For other concerns, you can reach me on [Discord](https://discord.com/users/137832560305766400) or [Mastodon](https://mastodon.online/@chlod).
+  * Sending a Discord message? Make sure you introduce yourself and [get to the point](https://nohello.net/), or you'll be getting the cold shoulder!
 
 ### 😄 Pronouns
 He/him.
