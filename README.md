@@ -1,6 +1,6 @@
 ## Hello! ✨
 
-My name is Chlod Aidan Alejandro, and I'm a freelance software developer and college student based in the Philippines. You can call me whatever you want, be it "Chlod", "Aidan", 「アイダン君」, or just "dude".
+My name is Chlod Aidan Alejandro, and I'm an open-source software developer and college student based in the Philippines. You can call me whatever you want, be it "Chlod", "Aidan", 「アイダン君」, or just "dude".
 
 ### 🔭 I’m currently working on ...
 A lot of things, [much of which](https://chlod.net/projects) are documented on my website. Although you might know me from a few of my projects:
@@ -23,14 +23,14 @@ I suggest that you use whatever method you prefer, although I also prefer having
 * If it's Wikipedia-related, please bring it to my [talk page](https://en.wikipedia.org/wiki/User_talk:Chlod).
 * For security issues regarding any of my projects, you can send me an email at [chlod@chlod.net](mailto:chlod@chlod.net).
 * If you're a close friend just wanting some attention, you can just call me on my phone number.
-* For other concerns, you can reach me on [Twitter](https://twitter.com/toolfrog) or [Mastodon](https://mastodon.online/@chlod).
+* For other concerns, you can reach me on [Discord](https://discord.com/users/137832560305766400) or [Mastodon](https://mastodon.online/@chlod).
 
 ### 😄 Pronouns
 He/him.
 
-### ⚡ Fun Fact
-* There's a meowing duck at the bottom of the homepage for [Amazon](https://amazon.com).
+### ⚡ Fun facts
 * I have the same age and birthday as [Chisato Nishikigi](https://lycoris-recoil.com/character/?chara=chisato) from Lycoris Recoil (as of Season 1), one of my favorite anime series.
 * [TypeScript](https://github.com/microsoft/typescript)'s transpiler is written in TypeScript.
 * You can install [`node`](https://www.nodejs.org) with [`npm`](https://www.npmjs.com/package/node), but it only works if you have Node already.
 * PHP is a recursive acronym, because PHP stands for "PHP: Hypertext Preprocessor".
+* [Milk inside a bag of milk inside a bag of milk](https://store.steampowered.com/app/1392820/Milk_inside_a_bag_of_milk_inside_a_bag_of_milk/)
