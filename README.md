@@ -30,8 +30,8 @@ I suggest that you use whatever method you prefer, although I also prefer having
 He/him.
 
 ### ⚡ Fun facts
-* I have the same age and birthday as [Chisato Nishikigi](https://lycoris-recoil.com/character/?chara=chisato) from Lycoris Recoil (as of Season 1), one of my favorite anime series.
 * [TypeScript](https://github.com/microsoft/typescript)'s transpiler is written in TypeScript.
 * You can install [`node`](https://www.nodejs.org) with [`npm`](https://www.npmjs.com/package/node), but it only works if you have Node already.
 * PHP is a recursive acronym, because PHP stands for "PHP: Hypertext Preprocessor".
 * [Milk inside a bag of milk inside a bag of milk](https://store.steampowered.com/app/1392820/Milk_inside_a_bag_of_milk_inside_a_bag_of_milk/)
+* [This section](https://github.com/ChlodAlejandro#-fun-facts) only contains recursion facts.
