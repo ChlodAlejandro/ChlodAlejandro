@@ -4,7 +4,7 @@ My name is Chlod Aidan Alejandro, and I'm an open-source software developer and 
 
 ### 🔭 I’m currently working on ...
 A lot of things, [much of which](https://chlod.net/projects) are documented on my website. Although you might know me from a few of my projects:
-* [Ultraviolet](https://gitlab.wikimedia.org/repos/10nm/ultraviolet) - a user-friendly Wikipedia counter-vandalism tool and the successor to [RedWarn](https://gitlab.wikimedia.org/repos/10nm/redwarn-web). Its source is available on GitLab.
+* [Ultraviolet](https://gitlab.wikimedia.org/repos/10nm/ultraviolet) - a user-friendly wiki counter-vandalism tool and the successor to [RedWarn](https://gitlab.wikimedia.org/repos/10nm/redwarn-web).
 * [PAGASA Parser](https://pagasa.chlod.net) - a library that parses information from [PAGASA](https://en.wikipedia.org/wiki/PAGASA)'s Tropical Cyclone Bulletin page and turns it into various formats.
 * [JTWC Archiver](https://en.wikipedia.org/wiki/User:Chlod/Tools/JTWC_Archiver) - an automatic archive of all Joint Typhoon Warning Center warnings and products.
 * [Deputy](https://en.wikipedia.org/wiki/Wikipedia:Deputy) - a copyright investigation suite for Wikipedia.
